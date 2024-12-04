@@ -19,7 +19,7 @@
   "author": "Frederick Heilmann",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "randomcolor": "^0.6.2",
     "socket.io": "^4.3.2"
   },
